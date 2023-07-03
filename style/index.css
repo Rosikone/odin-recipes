@@ -1,0 +1,32 @@
+html{
+    background-image: url(https://media.istockphoto.com/id/172671653/it/foto/tovaglia-texture-tessuto-a-quadri.jpg?s=612x612&w=0&k=20&c=e4-ubcIOFKEAxBVtV0Y1tX713no1QL19FY8aPOTYZpQ=);
+}
+
+.center{
+    margin:auto;
+}
+
+.Title{
+    font-family:'Brush Script MT', cursive;
+    text-align: center;
+    background-color: gold;
+    height: 50px;
+    width: 400px;
+}
+
+.ListBox{
+    
+    list-style:inside;
+    text-align: center;
+    font-size:large;
+    background-color:wheat;
+    width: 400px;
+    height:400px;
+}
+
+
+#Lista{
+    text-align:left ;
+    margin:auto;
+    width:300px;
+}
