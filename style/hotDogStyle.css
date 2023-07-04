@@ -1,0 +1,41 @@
+body {
+    background-color:rgb(73, 165, 223);
+    background-image: url();
+    font-size:20px;
+}
+
+#title {
+    background-color:red;
+    text-align:center;
+    color:whitesmoke;
+}
+
+#introduction{
+    margin-top:40px;
+    background-color: whitesmoke;
+    text-align:left;
+    font-family:'Times New Roman', Times, serif;
+    margin-left:680px;
+    margin-right:50px;
+}
+
+.HotDog{
+    height:370;
+    width:auto;
+    float:left;
+    clear:both;
+    display:inline;
+}
+
+#directions{
+    margin-left:100px;
+    margin-right:100px;
+    line-height: 25px;
+    font-weight:bold;
+    text-align:center;
+    background-color: whitesmoke;
+}
+
+.image{
+    height: 350;
+}
