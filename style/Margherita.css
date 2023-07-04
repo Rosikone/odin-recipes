@@ -1,0 +1,40 @@
+html{
+    background-color: wheat;
+    font-weight:750;
+}
+
+
+
+#Title{
+    color:whitesmoke;
+    background-color:rgb(95, 82, 5);
+    text-align:center;
+}
+
+#Ingredients{
+    border-style:groove;
+    border-color: black;
+    font-size: large;
+    border-width: 10px;
+    width:400px;
+}
+
+#introduction{
+    font-size: large;
+    margin-left:610px;
+    margin-bottom:350px;
+    text-align:left;
+}
+
+
+.pizza{
+    float:left;
+    display: inline;
+    clear: both;
+}
+
+#direction{ 
+    font-size:medium;
+    line-height: 30px;
+
+}
